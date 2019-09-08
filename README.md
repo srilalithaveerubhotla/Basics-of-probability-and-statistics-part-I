@@ -9,7 +9,7 @@
 A Useful high level information glossary to kick start as Data scientist
 As a part of my journey towards learning the subject from roots this is one of the practises that I scripted for myself on high level.
 
-# INFORMATION GLOSSARY
+## INFORMATION GLOSSARY
 
 Data : Any observations that are been collected
 
