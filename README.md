@@ -1,4 +1,11 @@
 # Basics-of-probability-and-statistics
+
+
+
+# Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write- H.G Wells
+
+
+
 A Useful high level information glossary to kick start as Data scientist
 As a part of my journey towards learning the subject from roots this is one of the practises that I scripted for myself on high level.
 
